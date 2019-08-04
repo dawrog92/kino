@@ -1,0 +1,2 @@
+# kino
+Panel administracyjny kina
